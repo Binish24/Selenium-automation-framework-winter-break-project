@@ -103,3 +103,28 @@
 2025-01-02 14:19:36 INFO  ConfigManager:41 - Configuration loaded for environment DEV
 2025-01-02 14:19:49 INFO  NavigateToAppliancesPageSteps:20 - Navigating to URL: https://www.flipkart.com/
 2025-01-02 14:19:50 INFO  NavigateToAppliancesPageSteps:26 - Driver instance is quit after the test.
+2025-01-02 16:50:28 INFO  ConfigManager:41 - Configuration loaded for environment DEV
+2025-01-02 16:50:44 INFO  NavigateToAppliancesPageSteps:20 - Navigating to URL: https://www.flipkart.com/
+2025-01-02 16:50:44 INFO  NavigateToAppliancesPageSteps:26 - Driver instance is quit after the test.
+2025-01-02 17:09:20 INFO  ConfigManager:41 - Configuration loaded for environment DEV
+2025-01-02 17:09:27 INFO  NavigateToAppliancesPageSteps:20 - Navigating to URL: https://www.flipkart.com/
+2025-01-02 18:38:45 INFO  ConfigManager:41 - Configuration loaded for environment DEV
+2025-01-02 18:38:54 INFO  BaseTest:25 - Started test with URL https://www.flipkart.com/
+2025-01-02 18:39:00 INFO  NavigateToAppliancesPageSteps:20 - Navigating to URL: https://www.flipkart.com/
+2025-01-02 18:43:22 INFO  ConfigManager:41 - Configuration loaded for environment DEV
+2025-01-02 18:43:30 INFO  BaseTest:25 - Started test with URL https://www.flipkart.com/
+2025-01-02 18:43:35 INFO  NavigateToAppliancesPageSteps:20 - Navigating to URL: https://www.flipkart.com/
+2025-01-04 11:36:05 INFO  ConfigManager:41 - Configuration loaded for environment DEV
+2025-01-04 11:36:13 INFO  BaseTest:25 - Started test with URL https://www.flipkart.com/
+2025-01-04 11:36:20 INFO  NavigateToAppliancesPageSteps:20 - Navigating to URL: https://www.flipkart.com/
+2025-01-04 11:40:57 INFO  ConfigManager:41 - Configuration loaded for environment DEV
+2025-01-04 11:41:04 INFO  BaseTest:25 - Started test with URL https://www.flipkart.com/
+2025-01-04 11:41:10 INFO  NavigateToAppliancesPageSteps:20 - Navigating to URL: https://www.flipkart.com/
+2025-01-04 14:42:39 INFO  ConfigManager:41 - Configuration loaded for environment DEV
+2025-01-04 14:42:47 INFO  BaseTest:25 - Started test with URL https://www.flipkart.com/
+2025-01-04 14:42:53 INFO  BaseTest:25 - Started test with URL https://www.flipkart.com/
+2025-01-04 14:42:59 INFO  NavigateToAppliancesPageSteps:20 - Navigating to URL: https://www.flipkart.com/
+2025-01-04 14:46:30 INFO  ConfigManager:41 - Configuration loaded for environment DEV
+2025-01-04 14:46:54 INFO  BaseTest:25 - Started test with URL https://www.flipkart.com/
+2025-01-04 14:47:04 INFO  BaseTest:25 - Started test with URL https://www.flipkart.com/
+2025-01-04 14:47:17 INFO  NavigateToAppliancesPageSteps:20 - Navigating to URL: https://www.flipkart.com/

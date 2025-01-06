@@ -1,8 +1,6 @@
 package stepdefinations;
 
-import base.BaseTest;
 import enums.WaitStrategy;
-import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
@@ -12,7 +10,7 @@ import tests.browser.Base;
 import tests.browser.DriverManager;
 import utils.WaitUtils;
 
-public class NavigateToAppliancesPageSteps extends Base {
+public class Navigate_To_Appliances_Page_Steps extends Base {
 
     LandingPage flipKartLandingPage;
 
@@ -32,9 +30,9 @@ public class NavigateToAppliancesPageSteps extends Base {
         public void i_click_on_the_appliances_button() {
            this.flipKartLandingPage = new LandingPage(DriverManager.getDriver());
            WaitUtils.applyWait(driver,flipKartLandingPage.appliancesButton, WaitStrategy.VISIBLE);
-            WaitUtils.applyGlobalWait();
+           WaitUtils.applyGlobalWait();
            WaitUtils.applyWait(driver,flipKartLandingPage.appliancesButton, WaitStrategy.CLICKABLE);
-            flipKartLandingPage.clickOnAppliancesButton();
+           flipKartLandingPage.clickOnAppliancesButton();
 
         }
 
@@ -43,11 +41,11 @@ public class NavigateToAppliancesPageSteps extends Base {
             Thread.sleep(2000);
         }
 
-        @After
-    public void tearDown() {
-        super.tearDown();
-
-        }
+//        @After
+//    public void tearDown() {
+//        super.tearDown();
+//
+//        }
 
     }
 
